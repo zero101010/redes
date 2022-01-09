@@ -1,0 +1,2 @@
+## O que é UMA VPN(Virtual Private Network)?
+- Ocorre na camada 3 do modelo OSI chamada também de site to site, é uma conexão entre 2 redes, fazendo assim com que a rede inicial simule estar dentro da outra rede
